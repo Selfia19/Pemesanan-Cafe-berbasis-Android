@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pemesanan Cafe</string>
+    <string name="empty_not_saved" />
+</resources>
